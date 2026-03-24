@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laith Amro</h1>
+<h1 align="center">Laith Q Amro</h1>
 <h3 align="center">Full Stack Developer || .NET | Angular</h3>
 
 - 🔭 I’m currently working on **Fleet Management Project**
